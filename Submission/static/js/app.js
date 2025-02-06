@@ -88,7 +88,7 @@ function buildCharts(sample) {
       type: 'bar',
       hovertext: otu_labels.slice(0, 10).reverse(),
       marker: {
-        color: 'firebrick'
+        color: 'purple'
       },
       orientation: 'h'
     }
